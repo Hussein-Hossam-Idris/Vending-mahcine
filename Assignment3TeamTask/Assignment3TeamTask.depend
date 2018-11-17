@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1542480334 source:d:\c++ programms\second year\assignment3teamtask\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Money.h"
+	"Product.h"
+
+1542480334 d:\c++ programms\second year\assignment3teamtask\money.h
+	<iostream>
+	"Product.h"
+
+1542480334 d:\c++ programms\second year\assignment3teamtask\product.h
+	<iostream>
+
+1542480334 source:d:\c++ programms\second year\assignment3teamtask\money.cpp
+	"Money.h"
+	<iostream>
+
+1542480334 source:d:\c++ programms\second year\assignment3teamtask\product.cpp
+	"Product.h"
+	<iostream>
+
